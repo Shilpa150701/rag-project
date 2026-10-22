@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+rag_venv/
+venv/
+
+# FAISS Index
+data/faiss_db/
+
+# Pickle Files
+*.pkl
+
+# PDFs (optional)
+pdfs/
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Environment Variables
+.env
